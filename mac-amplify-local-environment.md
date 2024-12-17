@@ -29,6 +29,7 @@
 ## 事前にひとりでやれる範囲
 ひとりでやっても効率的な作業
 ### **1. Xcode Command Line Toolsのインストール**
+[ターミナルを開き](https://support.apple.com/ja-jp/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)、以下を実行。  
 
 ```bash
 xcode-select --install
