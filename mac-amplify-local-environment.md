@@ -143,7 +143,9 @@ npm --version
 ### **7. AWS CLI v2のインストール**
 ブラウザで以下のpkgファイルをダウンロードし、インストールを実行してください。
 - [Install on Mac](https://awscli.amazonaws.com/AWSCLIV2.pkg)
-
+---
+---
+---
 ## 分かる人といっしょにやる範囲
 分かる人とやったほうが効率的な範囲
 ### **8. GitとGitHubの接続（アクセストークンを使用）**
